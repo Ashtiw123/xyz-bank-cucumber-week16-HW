@@ -1,0 +1,46 @@
+2023-05-24 22:05:691 INFO  HomePage :30 - Click on bank manager login
+2023-05-24 22:05:848 INFO  AddCustomerPage :41 - Click on add customer
+2023-05-24 22:05:288 INFO  AddCustomerPage :48 - Enter first name 
+2023-05-24 22:05:475 INFO  AddCustomerPage :55 - Enter last name 
+2023-05-24 22:05:641 INFO  AddCustomerPage :62 - Enter post code
+2023-05-24 22:05:789 INFO  AddCustomerPage :69 - Click on add button
+2023-05-24 22:05:674 INFO  HomePage :30 - Click on bank manager login
+2023-05-24 22:05:436 INFO  AddCustomerPage :41 - Click on add customer
+2023-05-24 22:05:789 INFO  AddCustomerPage :48 - Enter first name 
+2023-05-24 22:05:964 INFO  AddCustomerPage :55 - Enter last name 
+2023-05-24 22:05:122 INFO  AddCustomerPage :62 - Enter post code
+2023-05-24 22:05:273 INFO  AddCustomerPage :69 - Click on add button
+2023-05-24 22:05:941 INFO  HomePage :30 - Click on bank manager login
+2023-05-24 22:05:497 INFO  AddCustomerPage :41 - Click on add customer
+2023-05-24 22:05:843 INFO  AddCustomerPage :48 - Enter first name 
+2023-05-24 22:05:04 INFO  AddCustomerPage :55 - Enter last name 
+2023-05-24 22:05:135 INFO  AddCustomerPage :62 - Enter post code
+2023-05-24 22:05:266 INFO  AddCustomerPage :69 - Click on add button
+2023-05-24 22:05:825 INFO  HomePage :30 - Click on bank manager login
+2023-05-24 22:05:577 INFO  BankManagerLoginPage :37 - Click on open account
+2023-05-24 22:05:709 INFO  BankManagerLoginPage :44 - Click and select customer name
+2023-05-24 22:05:903 INFO  BankManagerLoginPage :50 - Select currency
+2023-05-24 22:05:62 INFO  BankManagerLoginPage :56 - CLick on process button
+2023-05-24 22:05:622 INFO  HomePage :37 - Click on customer login
+2023-05-24 22:05:764 INFO  BankManagerLoginPage :44 - Click and select customer name
+2023-05-24 22:05:951 INFO  CustomerLoginPage :47 - Click on login button :
+2023-05-24 22:05:54 INFO  CustomerLoginPage :54 - Check logout button present :
+2023-05-24 22:05:104 INFO  CustomerLoginPage :61 - Click on logout tab
+2023-05-24 22:05:193 INFO  CustomerLoginPage :67 - verifying your name text
+2023-05-24 22:05:834 INFO  HomePage :37 - Click on customer login
+2023-05-24 22:05:985 INFO  BankManagerLoginPage :44 - Click and select customer name
+2023-05-24 22:05:197 INFO  CustomerLoginPage :47 - Click on login button :
+2023-05-24 22:05:318 INFO  AccountPage :54 - Click on deposit tab
+2023-05-24 22:05:411 INFO  AccountPage :61 - Enter amount
+2023-05-24 22:05:567 INFO  AccountPage :68 - Click on deposit tab
+2023-05-24 22:05:666 INFO  AccountPage :75 - Get deposit successfully tab
+2023-05-24 22:05:414 INFO  HomePage :37 - Click on customer login
+2023-05-24 22:05:551 INFO  BankManagerLoginPage :44 - Click and select customer name
+2023-05-24 22:05:737 INFO  CustomerLoginPage :47 - Click on login button :
+2023-05-24 22:05:849 INFO  AccountPage :54 - Click on deposit tab
+2023-05-24 22:05:943 INFO  AccountPage :61 - Enter amount
+2023-05-24 22:05:72 INFO  AccountPage :68 - Click on deposit tab
+2023-05-24 22:05:174 INFO  AccountPage :82 - Click on withdrawl
+2023-05-24 22:05:281 INFO  AccountPage :61 - Enter amount
+2023-05-24 22:05:392 INFO  AccountPage :96 - Click on withdrawl transaction tab
+2023-05-24 22:05:501 INFO  AccountPage :103 - Get withdrawl successful tab
